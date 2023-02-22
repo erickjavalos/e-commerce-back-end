@@ -24,7 +24,7 @@ npm install
 
 ## Usage
 
-# Set up MySQL Database
+### Set up MySQL Database
 
 1. Exectue ```cd /db/ ```
 2. Execute ```mysql -u <user-name> -p ```
@@ -32,7 +32,7 @@ npm install
 4. Execute ```quit```
 5. Execute ```cd ../ && npm run seed```
 
-# Run backend Database
+### Run backend Database
 
 ```
 npm start
