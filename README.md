@@ -48,7 +48,7 @@ Example Video
 
 https://user-images.githubusercontent.com/23002875/220777236-67293176-7e90-4643-9340-3793b89d9f74.mp4
 
-[![Watch the video](https://drive.google.com/file/d/1vUQpCpikRHfl_0lOesxBRVpeSxYbCdrK/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1vUQpCpikRHfl_0lOesxBRVpeSxYbCdrK/view?usp=sharing)]
 
 ## Questions?
 
