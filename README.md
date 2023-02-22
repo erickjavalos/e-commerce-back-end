@@ -24,6 +24,16 @@ npm install
 
 ## Usage
 
+# Set up MySQL Database
+
+1. Exectue ```cd /db/ ```
+2. Execute ```mysql -u <user-name> -p ```
+3. Execute ```source schema.sql```
+4. Execute ```quit```
+5. Execute ```cd ../ && npm run seed```
+
+# Run backend Database
+
 ```
 npm start
 ```
